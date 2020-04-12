@@ -2140,6 +2140,12 @@ input, select, textarea {
 
 				}
 
+/* contact */
+	#contact a{text-decoration: none;}
+	#contact a:link {color: blue;}
+	#contact a:visited{color: blue;}
+	#contact a:hover {color: green;}
+
 /* Footer */
 
 	#footer {
